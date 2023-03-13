@@ -5,9 +5,9 @@ I have made many projects but havent stayed on one github account for long, so I
 <hr>
 <h3>About me</h3>
 <ul>
-  <li>👨🏻‍💻 Working on a cool chatroom</li>
-  <li>🍩 Trying to learn PHP & JavaScript</li>
-  <li>🍭 Check my site out on https://www.damon.lol</li>
+  <li>Working on a cool chatroom</li>
+  <li>Trying to learn PHP & JavaScript</li>
+  <li>Check my site out on https://www.damon.lol</li>
 </ul>
 <h3>Socials</h3>
 <ul>
