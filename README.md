@@ -11,7 +11,7 @@ I have made many projects but havent stayed on one github account for long, so I
 </ul>
 <h3>Socials</h3>
 <ul>
-  <li>Twitter - https://twitter.com/DamonJayRees</li>
+  <li>Twitter - https://twitter.com/HatchiteYT</li>
   <li>Instagram - https://instagram.com/DamonJayRees</li>
 </ul>
 
